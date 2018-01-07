@@ -1,1 +1,0 @@
-# react16-webpack3-boilerplate
